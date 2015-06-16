@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Nokia X2 aka Ara -->
-    <project path="device/nokia/ara" name="cm-nokia-x2/android_device_nokia_ara" revision="cm-11.0-wip" />
-    <project path="kernel/nokia/msm8610" name="cm-nokia-x2/android_kernel_nokia_msm8610" revision="cm-11.0-wip-bisect" />
-    <project path="vendor/nokia/ara" name="cm-nokia-x2/proprietary_vendor_nokia_ara" revision="cm-11.0" />
+    <project path="device/nokia/ara" name="cm-nokia-x2/android_device_nokia_ara" revision="cm-11.0-wip-jb-audio-blob" />
+    <project path="kernel/nokia/msm8610" name="cm-nokia-x2/android_kernel_nokia_msm8610" revision="cm-11.0-wip-jb-audio-blob" />
+    <project path="vendor/nokia/ara" name="cm-nokia-x2/proprietary_vendor_nokia_ara" revision="cm-11.0-jb-audio-blob" />
 
     <!-- CyanogenMod dependencies -->
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
