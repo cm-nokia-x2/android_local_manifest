@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Nokia X2 aka Ara -->
-    <project path="device/nokia/ara" name="cm-nokia-x2/android_device_nokia_ara" revision="cm-13.0" />
-    <project path="kernel/nokia/msm8610" name="cm-nokia-x2/android_kernel_nokia_msm8610" revision="cm-13.0-wip-test1" />
-    <project path="vendor/nokia/ara" name="cm-nokia-x2/proprietary_vendor_nokia_ara" revision="cm-13.0" />
+    <project path="device/nokia/ara" name="cm-nokia-x2/android_device_nokia_ara" revision="cm-14.1" />
+    <project path="kernel/nokia/msm8610" name="cm-nokia-x2/android_kernel_nokia_msm8610" revision="cm-14.1" />
+    <project path="vendor/nokia/ara" name="cm-nokia-x2/proprietary_vendor_nokia_ara" revision="cm-14.1" />
 
     <!-- CyanogenMod dependencies -->
-    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-13.0" />
-    <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" revision="cm-13.0" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.0" />
+    <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
 </manifest>
