@@ -6,6 +6,6 @@
     <project path="vendor/nokia/ara" name="cm-nokia-x2/proprietary_vendor_nokia_ara" revision="cm-14.1" />
 
     <!-- CyanogenMod dependencies -->
-    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.0" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
 </manifest>
