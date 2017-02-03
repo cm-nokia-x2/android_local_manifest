@@ -1,7 +1,11 @@
 Local manifest to build LineageOS 14.1 UNOFFICIAL for [Nokia X2 aka Ara](http://4pda.ru/forum/index.php?showtopic=651024)
 
-How to download:
+How to build:
 -------------
+
+Initializing a Build Environment:
+
+    https://source.android.com/source/initializing.html
 
 Initialize repo:
 
@@ -10,8 +14,7 @@ Initialize repo:
     repo sync
 
 
-How to compile:
-------------
+Compile:
 
     source ./build/envsetup.sh
     lunch cm_ara-userdebug
